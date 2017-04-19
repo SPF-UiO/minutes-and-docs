@@ -1,0 +1,54 @@
+'''Til stede:''' Marlene (SVFF), Alexander (RF), Nathalie (KU), Erling Alexander (FF), 
+    Hannah (MF), Thor (CYB), Max (RF-regi), Oskar (SVFF)
+
+'''Tid:''' 19. april 2016
+
+== Godkjenning av innkalling og dagsorden ==
+Innkalling og dagsorden godkjennes.
+
+== Godkjenning av referat ==
+Referatet fra 5. april godkjennes.
+
+== Orienteringer fra siste periode ==
+* De som betaler ut lønn har ikke mulighet til å markere fakturaer som betalt på SPf-siden. Det blir fikset nå (for RF-regi og FF).
+
+* Det virker som om Norlønn kjører februar-rapporten hver gang vi kjører lønn
+(har skjedd to ganger). 
+
+=== Max (utbetaler lønn) ===
+Lønn ble betalt ut i dag. Genererte nyeste rapport i dag.
+
+== Godkjenne medlemsavtaler ==
+Avtalene godkjennes
+
+== Bytte til Visma – hvordan går det? ==
+* Det går bra. Vi har kommet langt.
+* Har fått laget kontoplan.
+* Inngående saldo for 1.1.2016–31.12.2016 har blitt ordnet.
+* Thor og Oskar: Må få litt mer oversikt, men er godt på vei.
+* Øk.ans. er for å bytte bank til DNB, slik at vi får integrert bank/regnskap.
+** Leder må opprette konto i DNB (eller Danske Bank). Vi beholder Nordea inntil videre uansett.
+* Med Visma får vi bedre oversikt over hvor mye vi tjener/taper på SPF-avgiften.
+
+== Lønn ==
+Vi venter med lønnskjøring til Norlønn-problemet er fikset.
+
+== TODO ==
+=== Alle ===
+* Gå inn i Norlønn og finn inaktive arbeidere og deaktiver dem (endre «sluttdato» til dagens dato) for din forening.
+
+* Sjekk om noen av deres arbeidere har fått dobbel betaling (i perioden november–februar). Det er snakk om lønnskjøringer 10.2.2016 og 5.4.2016 (se kontoutskrift).
+
+* Medlemsavtaler må tas med til sine respektive foreninger. Avtalene blir ferdigstilt og sendt ut på e-postlisten.
+
+* Skriv ned arbeidsoppgavene til rollen din i SPF og send dem til utleiesjef@rf.uio.no.
+
+=== Thor og Max ===
+Går gjennom Norlønn-rapportene og ser om vi kan løse problemet.
+Hvis det ikke finnes en enkel løsning vi kan gjøre selv, send en e-post
+til Norlønn.
+
+=== Oskar og Marlene ===
+Ser på bankbytte sammen.
+
+== Eventuelt ==

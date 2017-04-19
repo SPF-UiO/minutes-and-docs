@@ -1,0 +1,62 @@
+SPF-møte 3. mai 2016
+
+== Godkjenning av innkalling og dagsorden ==
+Innkalling og dagsorden godkjennes.
+
+== Godkjenning av referat ==
+Referatet er godkjent.
+
+== Orientering fra siste periode ==
+=== Nathalie ===
+Har begynt å se på hvem som har fått utbetalt for mye lønn (se eget pkt.) fra KU.
+Fant ikke så mye ut av det, men det er en annen som har ansvar for det.
+Venter til hun er klar til å se på det.
+
+=== Max ===
+Har manuelt sjekket alle utbetalingene fra og med februarrapporten
+(se eget pkt.). Tror han har kommet frem til en fullstendig liste
+over de som har fått utbetalt ekstra lønn.
+
+Det er fint om alle sjekker at sine arbeidere burde være på lista.
+
+== Oskar ==
+Visma går bra. Har begynt å få kontroll på kontoer mm.
+Har ikke etterført alt, men det skjer etter eksamener.
+
+== Medlemsavtaler ==
+Alle må ta med de ferdige avtalene til sitt styre/leder.
+Få dem underskrevet, scan og send tilbake.
+
+Vi må legge til et punkt og endre RFs medlemsavtale for å
+legge til RF-regi.
+
+Skriv «0» på punktet om innbetaling til sikkerhetsfondet i vedlegget til
+medlemsavtalen.
+
+== Integrere alt i Visma ==
+Marlene ser seg for at man kan integrere mer enn regnskap i Visma,
+slik at man reduserer antall systemer (type Norlønn).
+Har ikke kompetanse til det selv, men skal høre med bl.a. SiO.
+
+Oskar: Foreløpig er det ikke noen enkel måte å legge inn
+arbeiderdata (vanskeligere enn Norlønn).
+
+Vi tar opp denne saken på neste møte i juni.
+
+== Dobbel lønnskjøring ==
+Mange arbeidere har fått for mye lønn. Vi venter med å betale ut mer
+lønn til midten av juni. Det er viktig at alle sier ifra til sine arbeidere
+(se lista til Max) at de må holde av det gale beløpet. Dette skal
+betales tilbake i juni/juli.
+
+== Eventuelt ==
+Ingen saker å melde.
+
+== TODO == 
+=== Alle ===
+* Sjekk over lista til Max. Sjekk at deres arbeidere burde være der.
+* Ta medlemsavtalen for deres forening med til styret/leder og få underskrift. Scan og send tilbake.
+* Si ifra til de på lista som har fått for mye lønn om at de må holde av (omtrentelig) beløp.
+
+=== Thor ===
+* Fortsatt å sende ut fakturaer som vanlig.
