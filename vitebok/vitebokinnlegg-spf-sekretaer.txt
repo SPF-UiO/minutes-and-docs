@@ -1,0 +1,23 @@
+= Sekretær =
+
+== Arbeidsoppgaver ==
+
+    * Hente post
+        ** Postboks 71 på Bunnpris.
+        ** Gjøres før hvert møte.
+        ** Post leveres typisk til leder og økonomiansvarlig.
+    * Skrive møtereferater
+        ** Referater fra generalforsamling må skrives ut og underskrives av
+           de som var på møtet.
+        ** Se mal for referat nedenfor.
+
+<blockquote>
+    01.01.2016, kl. 17.15 på U1
+
+    Tilstede: Kari (forening), Ola (forening).
+
+    Fraværende: Pia (forening)
+
+    1. Sak
+    :a. Undersak
+</blockquote>

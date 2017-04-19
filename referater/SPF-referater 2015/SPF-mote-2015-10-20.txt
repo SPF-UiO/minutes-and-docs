@@ -1,0 +1,130 @@
+Oppmøte:
+    - Snorre (ku), Jan (cyb),
+      Geir (rf-regi), Henrik (svff), Alex (rf), Emma (mf)
+
+1) Godkjenning av innkalling og dagsorden
+    - Innkalling godkjent.
+    - Dagsorden godkjent.
+
+2) Godkjenning av referat
+    - Referat godkjent.
+
+3) Orienteringer
+    - CYB:
+        - Christian har trukket seg. CYB-leder er vikar foreløpig.
+    - Leder:
+        - Vært på kurs om Visma eAccounting.
+        - Vi vet ikke om vi får dekket noe av kostnadene fra SiO, siden
+          vi ikke er en SiO-forening.
+    - Christiane:
+        - Se vedlagt tekstdokument.
+    - Geir:
+        - Fikk ikke betalt ut lønn uten adgang. Gjør det fortløpende.
+    - Alex:
+        - Har begynt å skrive inn medlemsavtale, ikke ferdig ennå.
+          Kommer fortløpende.
+        - Bug i SPF-siden som gjør at man ikke kan endre
+          opplysninger på allerede lagde brukere. Kan gjøre det gjennom
+          adminpanelet, da.
+        - Annet problem med nettsiden er at brukernavn er case sensitive …
+    - Emma:
+        - Hatt problemer med å legge folk til i Norlønn. Hun
+          sitter i SPF, men er ikke utlånsansvarlig.
+
+    - Christiane:
+        - Se bunn av referat!
+
+4) Medlemsavtaler
+    - Blir digitalisert (RFs verjson) fra kjelleravtalen, og sendt ut
+      med endringsforslag. Se Christianes orietering for hennes
+      endringsforslag.
+    - Tas på neste møte.
+
+5) Eventuelt
+    5.1 Lønnsutbetaling
+        - Geir trengte avklaring. Ordnet nå.
+    5.2 Arbeidsfordeling
+        - Geir betaler ut lønn. Emma og Jan sender ut faktura.
+        - Datoer:
+            - Lukke periode og sende ut faktura rundt den 15. hver
+              måned. 10 dagers betalingsfrist.
+            - Betaler ut lønn i slutten av måneden til de foreningene
+              som har betalt fakturaen innen fristen.
+    5.3 Neste møte
+        - 3. november 17.15 på U1
+
+6) Christianes orientering (fra e-post)
+
+- vær på regnskapskurs (SiO bytter til E-accounting). Med mindre Christian kom på noe lurt når det gjelder å endre lønn etter lønnskjøringen ble utført, foreslår jeg at spf tar i bruk samme system fra neste år av + at vi muligens bytter til DNB eller Danske Bank.
+
+Fordi:
+
+* Vi kan lage, sende, bokføre fakturaer i ett system.
+
+* Kan skille mellom foreningene gj. noe kalt kostnadsbærere.
+
+* Det er mulig å føre lønn i minus, dvs. rette opp i feilføringer.
+
+* Bakdelen er at man ikke kan importere filer slik vi kan i Norlønn. Derfor er CYB ikke veldig begeistret for programmet.
+
+* Spf har ikke et stort regnskap, så det går nok fint. Enda mindre problem hvis vi bytter bank:  Dnb og danske har bankintegrering med E-accounting. Mulig at filimportering er mulig etterhvert.
+
+* 10kr per lønnsslipp
+
+* kan lagre bilag som bildevedlegg: sekretær kan scanne posten direkte i systemet. Uten papirbilag slipper vi problemet med at alt er spredt over hele Blindern.
+
+* Andre fine features som man kan leke med.
+
+* Supporttjenesten virker veldig bra: 24timers responstid.
+
+* Kan sikkert få hjelp av SiO og.
+
+Vi må ikke bestemme oss i dag. Tenk på det, snakk med folk som har vært på kurset. Gjerne sjekk det ut selv.
+
+--------------------------------------------
+
+Ang. lønnsutbetaling:
+
+Sjekket banken i dag, og registrert alle fakturaer som ble betalt i spf-siden.
+
+- perioden vi lukket i september:
+
+* trykk på generer rapport (spf-sida --> norlønn)
+
+* velg utbetalingsdato 2x.oktober (i Norlønn)
+
+* importer filen som ble generert av spf-sida
+
+NB! Vennligst utbetal lønn snart. A-meldingen for oktober skal betales innen 15.nov, Henrik og jeg må koordinere oss med rapporteringen. Fint å ikke måtte stresse.
+
+- perioden vi lukker i dag:
+
+* ikke fakturer rf-regi (Geir gjorde det allerede)
+
+* vent med å generere norlønn-rapport: foreningene får 10 dager på seg til å betale (som vanlig)
+
+* velg utbetalingsdato 0x.november i Norlønn
+
+* Geirs ekstra-utbetaling vil være med i denne rapporten
+
+Siden begge lønnsutbetalinger er tett  innpå hverandre ser jeg ikke noe poeng i å flytte denne utbetalingen til oktober - kan føre til unødvendige feil (= dobbel utbetaling)
+
+Vennligst hør først med økonomi neste gang - mye kunne gått galt her.
+
+Er perioden lukket, så er den i utgangspunktet lukket. Forespørsel ang. lønnsforskudd bør godkjennes av styret som helhet. Og alle bør være klar over justeringene som må gjøres i forbindelse med det.
+
+------------------------------
+
+Angående medlemsavtale:
+
+- er veldig imot et sikkerhetsfond (3.3); kan heller få inn at spesielle finansielle avtaler er angitt i et vedlegg til avtalen?
+
+- da vil jeg ha som vedlegg at det ryddes opp i alle krav fra begge sider fram til februar 2016. Dette gjelder rf, svff, regi, mf. Dessuten må vi kreve at foreningen betaler først; rett og slett fordi spf ikke har midler til å tilbakebetale lånene fra 2014 og 2012.
+
+- 4.4: Merkelig at foreninger skal miste retten til å ta imot oppdrag. Ikke bra å straffe andre foreninger som vil arrangere noe hyggelig for studenter. Jeg vil stryke det. Holder med at vi ikke utbetaler lønn i så fall. Det er foreningene som må håndtere spm ang. hvorfor folk ikke får lønna si.
+
+- regner med at Alexander har tatt seg av alt som har med nye rutiner, frister o.l. å gjøre.
+
+Så, håper at det blir sendt ut mail til styrelederne snart ;)
+
+Koz dere!
