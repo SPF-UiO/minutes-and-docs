@@ -5,8 +5,16 @@
 \usepackage[margin=2cm,headsep=1cm]{geometry}
 \usepackage[bitstream-charter]{mathdesign}
 \usepackage[T1]{fontenc}
-
 \usepackage{enumitem}
+
+% Fractions
+\usepackage{xfrac}
+\DeclareInstance{xfrac}{default}{text}%
+{%
+	scale-factor = 1.2,
+	numerator-bot-sep = 3pt,
+	denominator-bot-sep = -1pt,
+}
 
 % Redefines sections and subsections in the format §1-1
 \renewcommand{\thesection}{§ \arabic{section}}
@@ -26,8 +34,8 @@
 
 \author{}
 \title{%
-    {\LARGE\textbf{Vedtekter for Studenkjellernes personalforening}}\\[7pt]
-	{\small oppdatert av ekstraordinær generalforsamling \thedate}
+    {\LARGE\textbf{Vedtekter for Studenkjellernes personalforening}}\\%
+	{\small oppdatert av ekstraordinær generalforsamling \thedate}%
 }
 \date{}
 
@@ -92,7 +100,7 @@ generalforsamlingen.
 \end{enumerate}
 
 \subsection{Stemmeberettighet}
-Generalforsamlingen er stemmeberettiget når 3/4 av medlemmene er tilstede.
+Generalforsamlingen er stemmeberettiget når \sfrac{3}{4} av medlemmene er tilstede.
 
 \section{Styret}
 \subsection{Hovedoppgave}
@@ -101,7 +109,7 @@ De skal ta opp nye medlemmer, inngå medlemsavtaler og følge disse.
 
 \subsection{Sammensetning\label{sec:sammensetning}}
 \begin{enumerate}[ref=\thesubsection~punkt \theenumi]
-	\item Styret er sammensatt av en representant fra hver medlemsforening. Hver representant har en vararepresentant, jf. \ref{sec:medlemsrepresentanter}. Samtlige medlemsforeningsrepresentanter har møterett.
+	\item Styret er sammensatt av en representant fra hver medlemsforening. Hver representant har en vararepresentant, jf.~\ref{sec:medlemsrepresentanter}. Samtlige medlemsforeningsrepresentanter har møterett.
 	\item For å være valgbar til styret må en styrerepresentant være aktiv frivillig i sin egen forening ved starten av vervet, og godkjent av sin egen forenings hovedstyre\label{item:valgbar}.
 	\item Dersom et styre- eller varamedlem fratrer må medlemsforeningen velge en ny representant innen en uke\label{item:styre-fratrer}.
 \end{enumerate}
@@ -133,7 +141,7 @@ Daglig leder har signaturrett.
 \section{Vedtekter\label{sec:vedtekter}}
 \begin{enumerate}
 	\item Vedtektene kan endres på ordinær og ekstraordinær generalforsamling.
-	\item Vedtektsendringer må ha minst 3/4 flertall. 
+	\item Vedtektsendringer må ha minst \sfrac{3}{4} flertall. 
 	\item Medlemsforeningenes hovedstyrer er høringsorgan
 		for vedtektsendringer.
 \end{enumerate}
@@ -141,8 +149,8 @@ Daglig leder har signaturrett.
 \section{Oppløsning\label{sec:opplosing}}
 \begin{enumerate}
 	\item Vedtak om oppløsning må være enstemmig.
-	\item Foreningen kan oppløses ved vedtak om oppløsning på to etterfølgende generalforsamlinger, med minimum 1 --- én --- måned mellomrom.
+	\item Foreningen kan oppløses ved vedtak om oppløsning på to etterfølgende generalforsamlinger, med minimum én måned mellomrom.
 	\item Foreningens gjenværende eiendeler etter gjeldsoppgjør skal fordeles blant medlemsforeningene etter enighet på siste oppløsningsgeneralforsamling. Dersom enighet ikke oppnås tilfaller eiendeler til SiO Foreninger.
 \end{enumerate}
 
-\end{document}
+\end{document} % chktex 17
