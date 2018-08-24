@@ -1,0 +1,157 @@
+\documentclass[11pt,norsk,a4paper]{article}
+\usepackage[norsk]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{cleveref,parskip,textcomp,fullpage,fancyhdr,graphicx,lastpage}
+\usepackage[margin=2cm,headsep=1cm]{geometry}
+\usepackage[bitstream-charter]{mathdesign}
+\usepackage[T1]{fontenc}
+\usepackage{enumitem}
+
+% Fractions
+\usepackage{xfrac}
+\DeclareInstance{xfrac}{default}{text}%
+{%
+	scale-factor = 1.2,
+	numerator-bot-sep = 3pt,
+	denominator-bot-sep = -1pt,
+}
+
+% Redefines sections and subsections in the format §1-1
+\renewcommand{\thesection}{§ \arabic{section}}
+\renewcommand{\thesubsection}{\thesection-\arabic{subsection}}
+% TODO: Skriv inn gyldig dato her
+\newcommand{\thedate}{08.06.2018}
+
+% Headers
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textit{Vedtekter for Studenkjellernes personalforening av \thedate}}
+\fancyhead[R]{\thepage\ av\ \pageref{LastPage}}
+
+% Redefines first level of enumerate in the format a), b), ...
+\renewcommand{\theenumi}{\alph{enumi}}
+\renewcommand{\labelenumi}{\theenumi)} % chktex 9 chktex 10
+
+\author{}
+\title{%
+    {\LARGE\textbf{Vedtekter for Studenkjellernes personalforening}}\\%
+	{\small oppdatert av ekstraordinær generalforsamling \thedate}%
+}
+\date{}
+
+\begin{document}
+\maketitle{}
+
+\section{Navn\label{sec:navn}}
+Foreningens navn er \emph{Studentkjellernes personalforening}.
+
+
+\section{Formål\label{sec:formål}}
+Foreningens formål er å administrere personaltjenester for medlemmer av 
+\emph{Studentkjellernes personalforening}.
+Med personaltjenester menes lønnet arbeid utført i regi av medlemsforeningene.
+
+
+\section{Medlemskap\label{sec:3}}
+
+\subsection{Mulige medlemmer}
+Alle foreninger ved Universitet i Oslo som  har egen bardrift, eller driver med utleievirksomhet, kan bli medlemmer.
+
+\subsection{Opptak}
+Nye medlemmer tas opp etter behandling av skriftlig forespørsel til styret.
+
+\subsection{Medlemsavtale}
+Alle medlemmer har en egen medlemsavtale som skal regulere ansvarsfordelingen
+mellom Studentkjellernes personalforening og hver enkel medlemsforening.
+Avtalen nyforhandles hvert høstsemester og skal være på plass senest
+fire uker etter generalforsamling. 
+Brudd på medlemsavtalen eller forsømmelse av avtaleforhandling
+kan føre til suspensjon eller oppsigelse av medlemskapet.
+
+\subsection{Medlemsrepresentasjon\label{sec:medlemsrepresentanter}}
+Alle medlemsforeninger har et medlem og et varamedlem i styret.
+Styrerepresetanten og varamedlemmet velges av medlemsforeningen.
+
+
+\section{Generalforsamling}
+
+\subsection{Ordinær generalforsamling}
+\begin{enumerate}
+	\item Ordinær generalforsamling innkalles med tre ukers varsel. 
+	\item Ordinær generalforsamling holdes to ganger i året: for vårsemesteret i januar eller februar, og for høstsemesteret i august eller september.
+	\item Generalforsamlingen skal behandle styrets beretning, regnskap og budsjett. 
+	\item Generalforsamlingen skal godkjenne de styremedlemmer medlemsforeningen 
+		har oppnevnt til styret, jf.~\ref{item:valgbar}, 
+		og velge leder for Studentkjellernes personalforening blant disse og eventuelle andre medlemsrepresentanter.
+\end{enumerate}
+
+\subsection{Ekstraordinær generalforsamling}
+\begin{enumerate}
+	\item Ekstraordinær generalforsamling innkalles med to ukers varsel. 
+	\item Styret eller to av medlemsforeningene kan innkalle til ekstraordinær generalforsamling.
+\end{enumerate}
+
+\subsection{Stemme- og møterett}
+\begin{enumerate}
+	\item En representant for hver av medlemsforeningene har stemmerett på generalforsamlingen.
+	\item Styret i foreningen, styremedlemmer i medlemsforeningene,
+samt de som har mottatt honorar de siste 24 månedene fra foreningen, har møterett på
+generalforsamlingen.
+\end{enumerate}
+
+\subsection{Stemmeberettighet}
+Generalforsamlingen er stemmeberettiget når \sfrac{3}{4} av medlemmene er tilstede.
+
+\section{Styret}
+\subsection{Hovedoppgave}
+Styrets hovedoppgave er å forvalte medlemsforeningenes behov for personaltjenester.
+De skal ta opp nye medlemmer, inngå medlemsavtaler og følge disse.
+
+\subsection{Sammensetning\label{sec:sammensetning}}
+\begin{enumerate}[ref=\thesubsection~punkt \theenumi]
+	\item Styret er sammensatt av en representant fra hver medlemsforening. Hver representant har en vararepresentant, jf.~\ref{sec:medlemsrepresentanter}. Samtlige medlemsforeningsrepresentanter har møterett.
+	\item For å være valgbar til styret må en styrerepresentant være aktiv frivillig i sin egen forening ved starten av vervet, og godkjent av sin egen forenings hovedstyre\label{item:valgbar}.
+	\item Dersom et styre- eller varamedlem fratrer må medlemsforeningen velge en ny representant innen en uke\label{item:styre-fratrer}.
+\end{enumerate}
+
+\subsection{Verv}
+\begin{enumerate}
+	\item Faste verv i styret er styreleder, nestleder, økonomiansvarlig og sekretær\label{item:faste-verv}. 
+	\item Faste verv jf. \cref{item:faste-verv} velges på generalforsamling og har en varighet fram til neste ordinære generalforsamling.
+	\item Så langt det er mulig skal vervet som styreleder gå på omgang blant medlemsforeningene. 
+	\item Styreleder er daglig leder for foreningen.
+	\item Dersom et styremedlem fratrer fra et fast verv, adskilt eller i helhet jf.~\ref{item:styre-fratrer}, må det arrangeres ekstraordinær generalforsamling for å fylle vervet fram til neste ordinære generalforsamling.
+\end{enumerate}
+
+
+\section{Protokolltilførsel}
+Styret skal føre og godkjenne protokoll fra alle sine møter.
+Kopi av protokoll skal sendes til driftslederne i alle medlemsforeningene.
+
+
+\section{Økonomi}
+Foreningen skal ikke ha som mål å tjene penger og skal derfor ikke gå med overskudd.
+Foreningen har mulighet til å opparbeide seg et fond.
+
+
+\section{Signatur}
+Daglig leder har signaturrett.
+
+
+\section{Vedtekter\label{sec:vedtekter}}
+\begin{enumerate}
+	\item Vedtektene kan endres på ordinær og ekstraordinær generalforsamling.
+	\item Vedtekter må ha minst \sfrac{3}{4} flertall.
+	\item Medlemsforeningenes hovedstyrer er høringsorgan for vedtektsendringer.
+	\item Vedtektsendringer skal være klare og sendes ut til medlemsforeningene senest to uker før generalforsamling.
+\end{enumerate}
+
+
+\section{Oppløsning\label{sec:opplosing}}
+\begin{enumerate}
+	\item Vedtak om oppløsning må være enstemmig.
+	\item Foreningen kan oppløses ved vedtak om oppløsning på to etterfølgende generalforsamlinger, med minimum én måned mellomrom.
+	\item Foreningens gjenværende eiendeler etter gjeldsoppgjør skal fordeles blant medlemsforeningene etter enighet på siste oppløsningsgeneralforsamling. Dersom enighet ikke oppnås tilfaller eiendeler til SiO Foreninger.
+\end{enumerate}
+
+\end{document} % chktex 17
